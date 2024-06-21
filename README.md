@@ -20,6 +20,7 @@ To get Add My Urben Eats UI designs, follow these steps:
 
 1. Star the repository: `https://github.com/yourusername/add-my-urben-eats.git`
 2. Navigate into the figma link: `https://www.figma.com/design/9fWzca8W9hanx7wOFfcGPi/Urben-Eats-Mobile-App?node-id=1-27&t=T2hBUS32n5l70Sce-1`
+3. If not you can access through figma file I've uploaded.
 
 ## Contributing
 
